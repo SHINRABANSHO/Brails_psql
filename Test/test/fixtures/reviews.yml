@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  user_id: 1
+  service_id: MyString
+  content: MyString
+  valuation: 1
+  promotion_score: 1
+  price: 1
+  starting_cost: 1
+
+two:
+  title: MyString
+  user_id: 1
+  service_id: MyString
+  content: MyString
+  valuation: 1
+  promotion_score: 1
+  price: 1
+  starting_cost: 1
